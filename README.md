@@ -38,11 +38,11 @@ Variable Description
 
 These are a few questions intended to be derived from the analysis:
 
-* Which movie had the highest vote count?
-* What are the top 10 movies in terms of Budget, Revenue and Profit?
-* Which movies are the most popular?
-* Which genres are the most popular?
-* What are the frequent production companies?
-* Which actors are the most popular?
-* Can we provide a list of directors that generate high revenues?
+1. Which movie had the highest vote count?
+2. What are the top 10 movies in terms of Budget, Revenue and Profit?
+3. Which movies are the most popular?
+4. Which genres are the most popular?
+5. What are the frequent production companies?
+6. Which actors are the most popular?
+7. Can we provide a list of directors that generate high revenues?
 
